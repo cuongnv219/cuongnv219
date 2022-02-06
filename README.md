@@ -12,8 +12,8 @@ I am passionate about software development. I love coding and coding as well �
 
 ### 🌱 What I’m currently learing
 * Mobile app development
-* Kotlin and Java
 * Swift
+* Kotlin and Java
 
 ### 📫 How to reach me
 * Telegram: [cuongnv219](https://telegram.me/cuongnv219)
