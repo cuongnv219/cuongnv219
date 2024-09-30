@@ -16,8 +16,6 @@ I am passionate about software development. I love coding and coding as well ðŸ’
 * Kotlin and Java
 
 ### ðŸ“« How to reach me
-* Telegram: [cuongnv219](https://telegram.me/cuongnv219)
-* Twitter: [kaataanaa219](https://twitter.com/kaataanaa219)
 * E-mail: cuongnv219@gmail.com
 
 <!--
